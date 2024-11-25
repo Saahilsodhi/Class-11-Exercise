@@ -100,3 +100,6 @@ function StartApp() {
 }
 
 StartApp();
+/*
+Saahil
+This program is well-organized, with separate functions for each task, making it easy to follow. To make it better, you could check for duplicates before adding users or bans and use a faster way to check if a user is banned.*/
